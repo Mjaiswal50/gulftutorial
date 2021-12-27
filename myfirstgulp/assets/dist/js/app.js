@@ -1,0 +1,1 @@
+document.ready(function(){console.log("minification of js done custom"),alert("hello custom")}),document.ready(function(){console.log("minification of js done main"),alert("hello main")});
